@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to Lab Manual.
+Welcome to our Lab Manual.
 
 <br> This is the lab manual for Decima Lab at the University of California: San Diego, Scripps Institution of Oceanography!\
 The focus of our work centers around all things zooplankton. More about our group's research activity can be found on our [website](https://decimalab.ucsd.edu){target="_blank"}.
