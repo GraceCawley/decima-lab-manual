@@ -1,7 +1,16 @@
 project: 
   type: book
   output-dir: _book
-  
+
+format:
+  html:
+    theme: sandstone
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: true
+    page-layout: full
+
 book:
   title: "Décima Lab Manual"
   author: "PhD Students 2024-2025, Inspired by Fay Lab and others listed below"
@@ -13,8 +22,9 @@ book:
       <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+
+  site-url: https://gracecawley.github.io/decima-lab-manual/
+  repo-url: https://github.com/GraceCawley/decima-lab-manual
   repo-actions: [edit,issue]
 
   chapters: 
@@ -31,10 +41,5 @@ book:
     - 10-courses.qmd
     - 11-computing.qmd
     - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
 
-
-# not sure what the following line does; those files are present
 bibliography: [references.bib, book.bib]
-
