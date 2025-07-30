@@ -4,13 +4,13 @@ project:
 
 format:
   html:
-    theme: sandstone
+    theme: quartz 
     toc: true
     toc-depth: 2
     number-sections: true
     code-fold: true
     page-layout: full
-
+    
 book:
   title: "Décima Lab Manual"
   author: "PhD Students 2024-2025, Inspired by Fay Lab and others listed below"
