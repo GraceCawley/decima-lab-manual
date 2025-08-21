@@ -40,6 +40,6 @@ book:
     - 09-academics.qmd
     - 10-courses.qmd
     - 11-computing.qmd
-    - 12-umassd-resources.qmd
+    - 12-sio-resources.qmd
 
 bibliography: [references.bib, book.bib]
