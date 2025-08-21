@@ -19,7 +19,7 @@ book:
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://decimalab.ucsd.edu">The Décima lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 
