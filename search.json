@@ -440,8 +440,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html",
-    "href": "11-computing.html",
+    "objectID": "11-cruises.html",
+    "href": "11-cruises.html",
     "title": "12  Computing resources",
     "section": "",
     "text": "12.1 Overview of Computing at UMassD\nBecause our work is quantitative, research computing skills are an important part of your toolset. Most of our team uses the open source software R for a lot of their workflow, though you probably want to also learn an additional tool during your time in the lab (for many, the natural choice here is TMB and/or ADMB, as these C++ template languages are the basis for many statistical population dynamics models in fisheries stock assessment).\nFortunuately, there are heaps of resources (including your labmates!) to help you with your learning.\nAs a student of UMass Dartmouth, the Computing and Information Technology Services (CITS) provides access to essential resources and help when you need it. Information on how to set up your UMass login and access the UMassD portal can be found on the New Students UMassD CITS webpage. A list of available programs and licensed software can be found on the Software Licensing page.",
@@ -450,8 +450,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#smast-computing-facilities",
-    "href": "11-computing.html#smast-computing-facilities",
+    "objectID": "11-cruises.html#smast-computing-facilities",
+    "href": "11-cruises.html#smast-computing-facilities",
     "title": "12  Computing resources",
     "section": "12.2 SMAST computing facilities",
     "text": "12.2 SMAST computing facilities\nOnce you are set up with your UMass login, you will need to submit an SMAST IT Access Request Form to gain access to the SMAST Server. This form can be found under the SMAST Occupants page, Information Technology section through the UMassD portal. If you have additional questions or issues, you can email SMAST IT through smastsupport@umassd.edu.",
@@ -460,8 +460,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#administrator-privileges",
-    "href": "11-computing.html#administrator-privileges",
+    "objectID": "11-cruises.html#administrator-privileges",
+    "href": "11-cruises.html#administrator-privileges",
     "title": "12  Computing resources",
     "section": "12.3 Administrator Privileges",
     "text": "12.3 Administrator Privileges\nAs your computer is your main piece of lab research equipment, it is important to be able to use it effectively. Please ensure you are familiar with procedures for and have the ability to make changes on your computer as an administrator.",
@@ -470,8 +470,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#remote-meetings-via-zoom",
-    "href": "11-computing.html#remote-meetings-via-zoom",
+    "objectID": "11-cruises.html#remote-meetings-via-zoom",
+    "href": "11-cruises.html#remote-meetings-via-zoom",
     "title": "12  Computing resources",
     "section": "12.4 Remote meetings via Zoom",
     "text": "12.4 Remote meetings via Zoom\nUMassD uses Zoom as its conference call software solution. Everyone should activate their Zoom Pro account which is part of the university license. Information on how to set this up can be found here.",
@@ -480,8 +480,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#collaborative-software",
-    "href": "11-computing.html#collaborative-software",
+    "objectID": "11-cruises.html#collaborative-software",
+    "href": "11-cruises.html#collaborative-software",
     "title": "12  Computing resources",
     "section": "12.5 Collaborative software",
     "text": "12.5 Collaborative software\nFor writing, we collaborate using GoogleDocs. For code and analyses we encourage the use of version control (see Wilson et al. paper for what this could look like), stepping toward the use of git and github for sharing code and analyses. We believe there are many advantages of using these tools to help simplify workflows and shift cognitive load to the science being done rather than on organization and bookkeeping (which computers are good at). Recognizing that these tools represent a learning curve, we provide training in their use, and also encourage alternatives for sharing and documenting work. For example, code and analyses may also be shared among collaborators using a Google Drive folder.",
@@ -490,8 +490,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#backups-and-set-up-to-lab-storage-server",
-    "href": "11-computing.html#backups-and-set-up-to-lab-storage-server",
+    "objectID": "11-cruises.html#backups-and-set-up-to-lab-storage-server",
+    "href": "11-cruises.html#backups-and-set-up-to-lab-storage-server",
     "title": "12  Computing resources",
     "section": "12.6 Backups and set up to Lab storage server",
     "text": "12.6 Backups and set up to Lab storage server\nThe average life expectancy of a hard drive is less than the duration of most graduate programs. Thus it is critical to ensure your data and work are backed up regularly. You may have personal backup solutions (e.g. through Dropbox, Google Drive, etc.) but the lab has dedicated storage space on a university server that is backed up in multiple locations. Your data should be backed up on here. For information on logging on and accessing this, see information provided on a GitHub issue",
@@ -500,8 +500,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#learnr",
-    "href": "11-computing.html#learnr",
+    "objectID": "11-cruises.html#learnr",
+    "href": "11-cruises.html#learnr",
     "title": "12  Computing resources",
     "section": "12.7 Introductory R learning resources",
     "text": "12.7 Introductory R learning resources\nWelcome to R! There are so many learning resources out there it can feel a little overwhelming in terms of what to choose! To get you set up and started, Happy Git and Github for the useR is a great resource, and is created by the same authors as the now-legendary stat545.com course. Their resources are extremely comprehensive and they have a fantastic Intro R course, especially for those who will be using R for doing statistics.\nRight now, we REALLY like this short intro course by @juliesquid & @allisonhorst. They teach a lot of the workflow and tools around using R right from the get go, which we think is more helpful than knowing how to do all the things. The (excellent) materials are thoughtfully put together, link to a ton of other great resources, and just like the online #rstats community in general, are super supportive of new learners.\nWe also really like:\n\nTeacup Giraffes R and statistics materials from Desirée De Leon and Hasse Walum.\n\nData Science in a Box course by Mine Çetinkaya-Rundel, and\nAdventures in R by Kelly Bodwin.\n\nIf you want a book to work from/through, R for Data Science is highly recommended. (book is free online)\nThe R Studio Education team have assembled a phenomenal array of courses, tutorials, and other materials for learning R, and for many types of data analyses and modeling using R. These are top notch and so thoughtfully put together. There is something for learners at all levels.\nA plug for the online R community. Follow the hashtag #rstats, & also check out accounts @RLadiesGlobal & @R4dsCommunity. The weekly #TidyTuesday social coding project is also a great way to practice your growing R skills. Have fun!\nThe R4dsCommunity Slack is a briliant resource for getting help to your R questions and finding tutorials. They also hold online Office Hours where you can get help with R from a real human.\nThe RStudio Community is a great go-to.\nLearn R from within R with interactive sessions using swirlstats.com.\nThe carpentries R lessons are also a fab resource.",
@@ -510,8 +510,8 @@
     ]
   },
   {
-    "objectID": "11-computing.html#tmb-and-admb",
-    "href": "11-computing.html#tmb-and-admb",
+    "objectID": "11-cruises.html#tmb-and-admb",
+    "href": "11-cruises.html#tmb-and-admb",
     "title": "12  Computing resources",
     "section": "12.8 TMB and ADMB",
     "text": "12.8 TMB and ADMB\n[resources detail]",
@@ -520,33 +520,33 @@
     ]
   },
   {
-    "objectID": "12-sio-resources.html",
-    "href": "12-sio-resources.html",
-    "title": "13  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
+    "objectID": "13-sio-resources.html",
+    "href": "13-sio-resources.html",
+    "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
     "section": "",
-    "text": "13.1 General information about UMass Dartmouth and SMAST\nThe SMAST directory lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.\nIf you need help with a specific task, there are some staff members that are more appropriate to contact. Please use the link below to locate someone to help you. - [link to latest org chart]\nGeneral list of resources for SMAST staff and students via MyUMassD. This contains program policies, links, and forms for various academic and administrative procedures.",
+    "text": "14.1 General information about UMass Dartmouth and SMAST\nThe SMAST directory lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.\nIf you need help with a specific task, there are some staff members that are more appropriate to contact. Please use the link below to locate someone to help you. - [link to latest org chart]\nGeneral list of resources for SMAST staff and students via MyUMassD. This contains program policies, links, and forms for various academic and administrative procedures.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
   },
   {
-    "objectID": "12-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
-    "href": "12-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
-    "title": "13  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
+    "objectID": "13-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
+    "href": "13-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
+    "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
     "section": "",
-    "text": "13.1.1 University Codes of Conduct\n\nStudent conduct and dispute resolution\nSMAST’s code of conduct and diversity statement.\n\n\n\n13.1.2 For Grad Students\n\nOfficial SMAST webpage for current and incoming students. This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.\n\n\n\n13.1.3 For Employees\n\nEmployee resources\nHuman Resources",
+    "text": "14.1.1 University Codes of Conduct\n\nStudent conduct and dispute resolution\nSMAST’s code of conduct and diversity statement.\n\n\n\n14.1.2 For Grad Students\n\nOfficial SMAST webpage for current and incoming students. This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.\n\n\n\n14.1.3 For Employees\n\nEmployee resources\nHuman Resources",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
   },
   {
-    "objectID": "12-sio-resources.html#fay-lab-resources",
-    "href": "12-sio-resources.html#fay-lab-resources",
-    "title": "13  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
-    "section": "13.2 Fay Lab Resources",
-    "text": "13.2 Fay Lab Resources\n\nFay Lab website\nFay Lab Google Drive & Calendar - ask Gavin for a link to access & collaborate!\n\nLab email -&gt; thefaylab@gmail.com\n\nFay Lab GitHub account\n\nLab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It’s private so be sure to ask Gavin for access!\n\nOur current team\nLab publications\nProfessional development materials: collection of issues in the lab-chat\nTravel Procedures\n\n\n13.2.1 Weekly Lab Meetings\n\nEvery Monday from 12:30 - 2:00 PM ET\nLab Meeting Schedule\nOn occasion, this time is used for Quantfish woRkshops where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc).\n\nThe below are not currently in session, but are examples of regular activities we have run in the past.\n\n\n13.2.2 Shut Up and Write\n\nEvery Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -&gt; see below!)\nPomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.\n\n\n\n13.2.3 Hacky Hours/Southcoast useR group\n\n1st Thursday of every month\nMixed bag including working through tidy tuesdays, informal feedback presentations, etc.",
+    "objectID": "13-sio-resources.html#fay-lab-resources",
+    "href": "13-sio-resources.html#fay-lab-resources",
+    "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
+    "section": "14.2 Fay Lab Resources",
+    "text": "14.2 Fay Lab Resources\n\nFay Lab website\nFay Lab Google Drive & Calendar - ask Gavin for a link to access & collaborate!\n\nLab email -&gt; thefaylab@gmail.com\n\nFay Lab GitHub account\n\nLab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It’s private so be sure to ask Gavin for access!\n\nOur current team\nLab publications\nProfessional development materials: collection of issues in the lab-chat\nTravel Procedures\n\n\n14.2.1 Weekly Lab Meetings\n\nEvery Monday from 12:30 - 2:00 PM ET\nLab Meeting Schedule\nOn occasion, this time is used for Quantfish woRkshops where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc).\n\nThe below are not currently in session, but are examples of regular activities we have run in the past.\n\n\n14.2.2 Shut Up and Write\n\nEvery Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -&gt; see below!)\nPomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.\n\n\n\n14.2.3 Hacky Hours/Southcoast useR group\n\n1st Thursday of every month\nMixed bag including working through tidy tuesdays, informal feedback presentations, etc.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
   }
 ]
