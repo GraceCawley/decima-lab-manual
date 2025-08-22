@@ -39,7 +39,8 @@ book:
     - 08-communication.qmd
     - 09-academics.qmd
     - 10-courses.qmd
-    - 11-computing.qmd
-    - 12-sio-resources.qmd
+    - 11-cruises.qmd
+    - 12-PIC.qmd
+    - 13-sio-resources.qmd
 
 bibliography: [references.bib, book.bib]
