@@ -2,7 +2,7 @@
 
 Welcome to the Décima Lab at Scripps Institution of Oceanography!
 
-![](img/forestgump.gif)
+![](img/welcome-gif.gif)
 
 Here are some resources to help you get settled into the Lab.  
 
