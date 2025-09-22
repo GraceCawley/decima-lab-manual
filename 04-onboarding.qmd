@@ -1,12 +1,12 @@
 # Onboarding {#onboarding}
 
-Welcome to the Fay Lab at UMass Dartmouth!
+Welcome to the Décima Lab at Scripps Institution of Oceanography!
 
 ![](img/forestgump.gif)
 
 Here are some resources to help you get settled into the Lab.  
 
-Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!  
+Our group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SIO seamless and enjoyable. Most importantly, welcome!  
 
 If you are already a student, post-doc, or researcher we hope these resources prove useful as well.  
 
@@ -26,27 +26,46 @@ Within the first few weeks of joining the Fay Lab, you should work with Gavin to
 
 ## Timesheets
 
-(__graduate students do not need to complete timesheets__)
+You can access you timesheets through [EcoTime](https://ecotimecampus.ucsd.edu/).
 
-You can access you timesheets through the [HR portal in](https://my.umassd.edu/). Navigate to Quicklaunch and click on HRDirect. You need to enter your UMassD user ID, password, and select the Dartmouth campus. If this is the first time you do this, you will also need to verify your account through DUO authorization. We recommend using the DUO app on your phone. You can choose to have push access, or send codes. After your initial setup, you can also opt to go through DUO 1/month (instead of every time you login to HRDirect).   
+Reporting Exceptions
 
-Even if you are salaried, it's still important to keep track of and submit your vacation and sick time!
+Log in to Ecotime: https://ecotimecampus.ucsd.edu/
+Go to Employee Tasks → Timesheet.
+Enter your daily leave usage as hours (e.g., 8.00 hours instead of 1.00 day), then click Save (top right, 1st button).
+When finished, click Complete (top right, 4th button) to submit your timesheet.
+You may click Complete again to revert back to “incomplete,” make edits, and resubmit.
 
+If your timesheet has already been approved, ask your approver to “unapprove” it. If they’re unavailable, email bio-payroll@ucsd.edu to have it unlocked.
+
+No Exceptions to Report
+
+Log in to Ecotime.
+Go to Employee Tasks → Timesheet, then click Complete (4th button, top right).
+If edits are needed, you may revert to “incomplete” by clicking Complete again, make changes, and resubmit.
+If you’re locked out of your timesheet because it has already been approved, ask your timesheet approver to “unapprove” it or email bio-payroll@ucsd.edu.
+
+Retroactive Exception Reporting
+
+Retroactive timesheets are available about 7 business days after a pay period closes.
+Log in to Ecotime → History tab → select the timesheet, choose the period, and click Go.
+Go to Adjustments → Add Row → enter dates, pay code, and hours.
+Click Save (1st button, top right).
+Notify your approver to log in and approve adjustments—otherwise they won’t process.
 
 ## Facilities
 
 ### Office space
 
-Our physical lab space is in the SMAST-East (new) building. The lab is room 245. Ashleigh's desk is in the lab. Gavin's office is room 228.  
+Our physical lab space is in Sverdrup Hall rooms 2241, 2245, (insert new room here), and the Pelgaic Invertabrate Collection is in the Basement of Vaughn Hall. Moira's office is INSERT OFFICE NUMBER HERE. 
 
-Everyone in the lab is provided with desk space. Lab members sit either in the lab itself, or in the shared graduate student cubicle space and shared postdoc offices. Gavin encourages people to set up and work where is most comfortable. Graduate students should make use of their allocated space in the shared area but can do computational work in the lab area.  
+Everyone in the lab is provided with desk space. Lab members sit either in the lab itself, or in an office appointed by Scripps facilities. Moira encourages people to set up and work where is most comfortable. The lab is constantly being used so be congizant of others working at that time. There are conference roomas across Sverdrup that can be used for meetings or zoom calls. The picnic tables by Sverdrup are also great areas to work.  
 
-Lab meetings are hybrid, to allow for full participation even when members whose work location (including temporarily) is off-site. In person location for meetings is generally in the SMAST-E second floor conference room (SMAST-E 325).
+Lab meetings are hybrid, to allow for full participation even when members whose work location (including temporarily) is off-site. In person location for meetings is generally in the Sverdrup Hall First Floor Conference room. 
 
 ### Key card building & room access
 
-Access to the SMAST building, and to individual lab spaces within the building is through your UMass Pass keycard. Typically, you will have access to the SMAST gate, SMAST East building, the lab space (room #245), classrooms, and if you are a grad student/postdoc you will have access to the relevant shared office space.  
-The necessary building access forms can be found on the SMAST Occupants page which need to be filled out and approved and signed by Gavin before submitting to Mike Marino and Eric Lyonnais.  
+Access to Sverdrup, and to individual lab spaces within the building is through either your UCSD provided ID or a keycode. Typically, you will have access to the Sverdrup Hall doors, the lab space, and if you are a grad student/postdoc you will have access to the relevant office space. Other requests for space access will be as needed. INSERT SPACE ACCESS DOCUMENT. 
 
 ### Parking and transportation: 
-Parking at either of the SMAST buildings is free and no parking pass is required. Parking on the main UMassD campus requires a  digital parking pass. If you are staff this pass is free, there is a fee for students. Full details for campus parking policies and procedures are on the [UMassD parking webpage](https://www.umassd.edu/parking/). Note that there is limited short-term/temporary parking available on campus so you may feel it's not necessary to obtain a campus parking pass.
+Parking at SIO is paid for and the lots closest to Sverdrup require permits. Parking on the main UCSD campus requires a parking pass. There is parking available around the Scripps area. We constantly fight with surfers and beach goers for parking so that later you are to campus the farther you will be. There are areas that some labs members know for reliable parking... reach out in the slack, we don't want everyone else knowing our secrets. 
