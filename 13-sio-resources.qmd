@@ -12,7 +12,7 @@ The SIO [directory](https://scripps.ucsd.edu/directory) lists all faculty, staff
 
 ## For Graduate Students
 
-- [Scripps Current Students Portal](https://scripps.ucsd.edu/cur-std) – orientation, academic requirements, forms, funding resources
+- [Scripps Current Students Portal](https://a5.ucsd.edu/tritON/profile/SAML2/Redirect/SSO?execution=e1s1) – orientation, academic requirements, forms, funding resources
 - [UCSD Graduate Division](https://grad.ucsd.edu/) – fellowships, TA/RA policies, professional development
 - [Scripps Student Resources](https://scripps.ucsd.edu/cur-std/student-resources) – wellness, career support, diversity & inclusion
 
