@@ -454,27 +454,47 @@
     "href": "13-sio-resources.html",
     "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
     "section": "",
-    "text": "14.1 General information about UMass Dartmouth and SMAST\nThe SMAST directory lists all faculty and staff across both departments (DEOS & DFO). This is not updated frequently but may help you in locating a specific person and their contact information.\nIf you need help with a specific task, there are some staff members that are more appropriate to contact. Please use the link below to locate someone to help you. - [link to latest org chart]\nGeneral list of resources for SMAST staff and students via MyUMassD. This contains program policies, links, and forms for various academic and administrative procedures.",
+    "text": "14.1 General information about University of California: San Diego and Scripps Institution of Oceanography\nThe SIO directory lists all faculty, staff, and students across SIO. This is not updated frequently but may help you in locating a specific person and their contact information.",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
   },
   {
-    "objectID": "13-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
-    "href": "13-sio-resources.html#general-information-about-umass-dartmouth-and-smast",
+    "objectID": "13-sio-resources.html#university-codes-of-conduct",
+    "href": "13-sio-resources.html#university-codes-of-conduct",
     "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
-    "section": "",
-    "text": "14.1.1 University Codes of Conduct\n\nStudent conduct and dispute resolution\nSMAST’s code of conduct and diversity statement.\n\n\n\n14.1.2 For Grad Students\n\nOfficial SMAST webpage for current and incoming students. This has information on orientation materials, forms, scholarships/fellowships/assistantships, and academics.\n\n\n\n14.1.3 For Employees\n\nEmployee resources\nHuman Resources",
+    "section": "14.2 University Codes of Conduct",
+    "text": "14.2 University Codes of Conduct\n\nUC San Diego Student Conduct Code\nOffice for the Prevention of Harassment & Discrimination (OPHD)\nUC San Diego Principles of Community",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
   },
   {
-    "objectID": "13-sio-resources.html#fay-lab-resources",
-    "href": "13-sio-resources.html#fay-lab-resources",
+    "objectID": "13-sio-resources.html#for-graduate-students",
+    "href": "13-sio-resources.html#for-graduate-students",
     "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
-    "section": "14.2 Fay Lab Resources",
-    "text": "14.2 Fay Lab Resources\n\nFay Lab website\nFay Lab Google Drive & Calendar - ask Gavin for a link to access & collaborate!\n\nLab email -&gt; thefaylab@gmail.com\n\nFay Lab GitHub account\n\nLab-chat repository houses an Issues list that retains institutional and Fay Lab knowledge. It’s private so be sure to ask Gavin for access!\n\nOur current team\nLab publications\nProfessional development materials: collection of issues in the lab-chat\nTravel Procedures\n\n\n14.2.1 Weekly Lab Meetings\n\nEvery Monday from 12:30 - 2:00 PM ET\nLab Meeting Schedule\nOn occasion, this time is used for Quantfish woRkshops where lab members or invited guests come to teach the group and larger community a quantative skill (could be an introduction to a new R package, new statistical tool, etc).\n\nThe below are not currently in session, but are examples of regular activities we have run in the past.\n\n\n14.2.2 Shut Up and Write\n\nEvery Thursday from 3 - 4:30 PM EST (besides the 1st Thursday of every month which is reserved for Hacky Hour -&gt; see below!)\nPomodoro-style workflow. Three, 20-minute sessions interspersed by ~5 minute breaks.\n\n\n\n14.2.3 Hacky Hours/Southcoast useR group\n\n1st Thursday of every month\nMixed bag including working through tidy tuesdays, informal feedback presentations, etc.",
+    "section": "14.3 For Graduate Students",
+    "text": "14.3 For Graduate Students\n\nScripps Current Students Portal – orientation, academic requirements, forms, funding resources\nUCSD Graduate Division – fellowships, TA/RA policies, professional development\nScripps Student Resources – wellness, career support, diversity & inclusion",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
+    ]
+  },
+  {
+    "objectID": "13-sio-resources.html#for-employees",
+    "href": "13-sio-resources.html#for-employees",
+    "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
+    "section": "14.4 For Employees",
+    "text": "14.4 For Employees\n\nUC San Diego Human Resources – payroll, benefits, employee services\nAcademic Personnel Services – appointments, leaves, promotions\nResearch Compliance & Safety – IRB, IACUC, shipboard safety",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
+    ]
+  },
+  {
+    "objectID": "13-sio-resources.html#décima-lab-resources",
+    "href": "13-sio-resources.html#décima-lab-resources",
+    "title": "14  University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources",
+    "section": "14.5 Décima Lab Resources",
+    "text": "14.5 Décima Lab Resources\n\nDécima Lab website\nDécima Lab Google Drive & Calendar – ask Moira for a link to access & collaborate!\nLab Slack – day-to-day communications (ask for an invite)\nLab publications on Google Scholar\n\n\n14.5.1 Weekly Lab Meetings\n\nUsually Fall 2025 Tuesdays at 12:00 PM PST\nLocation: SIO / Sverdrup Hall or Zoom when remote",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>University of California: San Diego, Scripps Institution of Oceaongraphy, and Décima Lab Resources</span>"
     ]
