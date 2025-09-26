@@ -34,3 +34,5 @@ The SIO [directory](https://scripps.ucsd.edu/directory) lists all faculty, staff
 ### Weekly Lab Meetings
 - For Fall 2025 Tuesdays at 12:00 PM PST
 - Location: SIO / Sverdrup Hall or Zoom when remote
+
+![](img/Fall2025LabCollage.png)
