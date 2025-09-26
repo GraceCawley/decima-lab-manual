@@ -2,8 +2,6 @@
 
 We are a zooplankton ecology lab. We study zooplankton and their role in connecting ocean food webs to global biogeochemical cycles. Our research explores how plankton growth, feeding, and waste drive carbon and nutrient fluxes, and how these processes are reshaped by climate stressors like warming, acidification, and wildfire inputs. By linking ecology and biogeochemistry, we aim to understand and predict how ocean ecosystems respond to rapid environmental change.\
 
-Our work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options.
-
 See the next chapter for more detail on our lab culture and philosophy.
 
 ## How we meet
