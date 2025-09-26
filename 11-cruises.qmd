@@ -1,5 +1,7 @@
 # Cruises {#Cruises}
 
+![](img/CruiseSunset.jpeg)
+
 The Décima lab is a sea-going lab, meaning a lot of our samples are collected for going out on oceanogrpahic research vessels.
 
 California Current Long Term Ecological Research Cruise
