@@ -42,5 +42,6 @@ book:
     - 11-cruises.qmd
     - 12-PIC.qmd
     - 13-sio-resources.qmd
+    - 14-lessons-learned.qmd
 
 bibliography: [references.bib, book.bib]
