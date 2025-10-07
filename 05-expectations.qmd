@@ -28,21 +28,18 @@ In the lab, we communicate via email. You should therefore check your email at l
 Attendance is expected at:
 
 * Departmental seminars  
-* Weekly lab meetings / quantfish woRkshops  
-* Individual meetings with Gavin to discuss and work on your research  
-* SMAST thesis and proposal defenses  
-* SMAST all hands meetings / start-and-end of semester events  
-* Annual UMass Intercampus Marine Science graduate research symposium
-
+* Weekly lab meetings  
+* Individual meetings with Moira to discuss and work on your research  
+* Décima thesis and proposal defenses  
 
 ## Outreach
 
-We share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within SMAST and the university, are supportive of others in our community during their milestones, actively participate in SMAST events (e.g. the IMS graduate research symposium), and perform outreach. Ask others in the lab about activities they are part of, and work with Gavin when crafting your mentoring plan to identify outreach strategy that meshes well with your goals.  
+Update for Decima lab and other grant expectations
 
 
 ## Expectations for the PI
 
-Gavin (as PI) will (at a minimum) provide:  
+Moira (as PI) will (at a minimum) provide:  
 
 * Technical support for analysis (e.g., access to computing, training on techniques)  
 * Positive feedback & constructive criticism on work  
@@ -54,9 +51,9 @@ Gavin (as PI) will (at a minimum) provide:
 
 ##  Graduate students
 
-You are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. See Chapter \@ref(umassd-resources) & Chapter \@ref(smast-resources) for links to resources.   
+You are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. 
 
-Course of study: Work with Gavin when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SMAST to include elsewhere at UMassD, the UMass system, and also at other institutions (consider the value of a semester exchange). A list of classes that lab members have taken, and suggested course of study schedule for Fay lab grad students can be found in Chapter \@ref(courses).  
+Course of study: Work with Moira when crafting and revisiting your individual mentoring plans to identify classes that you will take during your academic program. Look beyond those offered at SIO to include elsewhere at UCSD, and also at other institutions. A list of classes that lab members have taken, and suggested course of study schedule for Décima lab grad students can be found in Chapter \@ref(courses).  
 
 We schedule regular individual meetings with Moira throughout the year. At a minimum during the quarter these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Moira to discuss and work on your research. Thus they are your time, not Moira’s. Come with an agenda with a list of things that you want to accomplish and work on during that time.   
 
