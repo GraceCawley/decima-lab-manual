@@ -1,14 +1,114 @@
 # Funding {#funding}
 
-Gavin does not typically accept students into the lab without being able to guarantee at least 2 years of full funding. 
+All applicants to the Scripps Institution of Oceanography PhD Program are considered for financial support in the form of fellowships, scholarships and research assistantships. Scripps typically offers a five-year guaranteed financial package that includes stipend/salary, tuition, and nonresident supplemental tuition. U.S. citizens and permanent residents who are not California residents are typically awarded one year of nonresident supplemental tuition, after which they are then expected to become a California resident.
 
-Funded position openings in the lab will be posted through the lab website, twitter account, and via other distribution feeds (e.g. EcoLog).  
+# Division of Graduate Education and Postdoctoral Affairs
 
-Gavin encourages all students to apply for external funding through graduate scholarships. Some relevant ones include the NMFS-Sea Grant Graduate Fellowships in Population and Ecosystem Dynamics, NSF Graduate Research Fellowship Program, Ford Foundation, NOAA Nancy Foster scholarships, and Margaret A. Davidsonn Graduate Fellowships, though there are many other opportunities (more provided in the link below).  
+Learn more about Teaching Assistantships, Fellowships, and Resources via the Division of Graduate Education and Postdoctoral Affairs [here] (https://grad.ucsd.edu/financial/index.html).
 
-Here is Gavin's living document of recurring funding opporunities [Google Doc](https://docs.google.com/spreadsheets/d/1YGtSWJj2socIGtHLbBpHmJ7rPeDiECsdjgIz8FxUYMA/edit?ts=5e289f99#gid=0). Gavin not only encourages students to obtain additional funding, but also staff and post-docs. And for all to apply for travel grants when attending conferences, where applicable. 
+# External Fellowhsips
 
-This resource is updated fairly regularly, and largely contains resources to fund yourself/research. It includes the opportunity name, institituion, link, grad/undergrad/postdoc/all/early career/etc designation, the deadline, and important notes. 
+AGU Bridge Program
+The Bridge Program increases opportunities for students from historically marginalized populations to obtain graduate degrees and create a network of peers, mentors, and advisers to support and serve them before, during and after grad school. The program is open to those who have not applied to graduate school or those who applied and were not accepted.
+www.agu.org/bridge-program
 
-Gavin will also share funding opportunites as they come up, either to the group or in individual meetings.  
+American Association of University Women Fellowships (AAUW)
+AAUW seeks to advance educational and professional opportunities for women in the United States and around the globe. Fellowship opportunities include: American Fellowships, Career Development Grants, Community Action Grants, International Fellowships and Selected Professions Fellowships.
+https://www.aauw.org/resources/programs/fellowships-grants/
 
+American Meteorological Society Graduate Fellowship (AMS)
+AMS administers fellowships and scholarships to help further the education of outstanding graduate and undergraduate students pursuing a career in the atmospheric and related oceanic or hydrologic sciences.
+https://www.ametsoc.org/index.cfm/ams/information-for/students/ams-scholarships-and-fellowships/ams-graduate-fellowships/
+
+Association for Women Geoscientists Fellowship (AWG)
+AWG is an international organization devoted to enhancing the quality and level of participation of women in geosciences and to introduce girls and young women to geoscience careers. AWG offers several scholarships and awards to women pursuing an advanced degree in geosciences.
+https://www.awg.org/page/ScholarshipsandAwards
+
+Association for Women In Science Scholarship Program (AWIS)
+San Diego Chapter The AWIS-SD Scholarship Program strives to encourage and reward aspiring women scientists pursuing their degrees in San Diego colleges and universities in science, technology, engineering and mathematics (STEM).
+http://sdawis.org/
+
+Department of Energy Office of Science Graduate Fellowship (DOE SCGF)
+DOE SCGF supports graduate education in physics, biology (non-medical), chemistry, mathematics, engineering, computer and computational sciences, and environmental sciences relevant to the Office of Science and to encourage the development of the next generation of scientific and technical talent in the U.S who will pursue careers in research critical to the DOE Office of Science mission.
+https://science.osti.gov/wdts/scgf
+
+Fulbright Scholar Program
+The Fulbright Program is the flagship international educational exchange program sponsored by the U.S. government and is designed to “increase mutual understanding between the people of the United States and the people of other countries.” With this goal as a starting point, the Fulbright Program has provided almost 300,000 participants—chosen for their academic merit and leadership potential — with the opportunity to study, teach and conduct research, exchange ideas and contribute to finding solutions to shared international concerns.
+http://www.cies.org
+
+Hertz Graduate Fellowship
+The Fannie and John Hertz Foundation awards fellowships with the goal of supporting early stage research endeavors of applied physical, biological, and engineering science students who possess the potential to change our world for the better by solving difficult, real-world problems.
+http://www.hertzfoundation.org/
+
+Hispanic Scholarship Fund (HSF)
+The HSF is the nation’s largest not-for-profit organization supporting Hispanic higher education. HSF provides fellowship assistance to qualified applicants at all levels of their college education.
+http://www.hsf.net/
+
+Link Foundation - Ocean Engineering and Instrumentation Fellowship Program
+The Link Foundation offers one-year fellowships for doctoral students working in the areas of ocean engineering and ocean instrumentation research. This fellowship is administered by the Florida Institute of Technology.
+http://www.linkoe.org/
+
+Monterey Bay Aquarium Research Institute (MBARI)
+MBARI’s summer internship program provides an opportunity for talented college students (undergraduate and graduate) and educators to come to MBARI for a period of 10 weeks during the summer to work on a specific project under MBARI staff supervision.
+http://www.mbari.org/education/internship/genintern.htm
+
+Dr. Nancy Foster Scholarship Program
+The Dr. Nancy Foster Scholarship Program recognizes outstanding scholarship and encourages independent graduate level research -- particularly by female and minority students -- in oceanography, marine biology and maritime archaeology. The program is administered through NOAA's Office of National Marine Sanctuaries.
+http://fosterscholars.noaa.gov/welcome.html
+
+Future Investigators in NASA Earth and Space Science and Technology (FINESST) program
+FINESST solicits proposals from accredited U.S. universities and other eligible organizations for graduate student-designed and performed research projects that contribute to the Science Mission Directorate’s science, technology and exploration goals. FINESST awards are research grants for up to three years and up to $50K per year. Solicitations for proposals may be found on NASA Solicitation and Proposal Integrated Review and Evaluation System (NSPIRES): https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={2CA37D02-F6A7-9746-68C1-8B681D7532EA}&path=open
+
+National Defense Science and Engineering Graduate (NDSEG) Fellowships
+NDSEG fellowships are awarded to applicants who will pursue a doctoral degree in, or closely related to, an area of Department of Defense interest within one of the fifteen following disciplines in the fields of science and engineering.
+ndseg.sysplus.com/
+
+National Science Foundation - Graduate Research Fellowship Program (NSF GRFP)
+The purpose of NSF GRFP is to help ensure the vitality and diversity of the scientific and engineering workforce in the United States. The program recognizes and supports outstanding graduate students who are pursuing research-based master's and doctoral degrees in fields within NSF's mission. The GRFP provides three years of support for the graduate education of individuals who have demonstrated their potential for significant achievements in science and engineering research.
+http://www.nsf.gov/grfp
+
+National Science Foundation - East Asia and Pacific Summer Institutes for U.S. Graduate Students (EAPSI)
+EAPSI awards provide U.S. graduate students in science, engineering, and education: 1) first-hand research experiences in Australia, China, Japan, Korea, New Zealand, Singapore or Taiwan; 2) an introduction to the science, science policy, and scientific infrastructure of the respective location; and 3) an orientation to the society, culture and language. It is expected that EAPSI awards will help students initiate professional relationships to enable future collaboration with foreign counterparts.
+http://www.nsf.gov/eapsi
+
+NOAA Fisheries / Sea Grant Fellowship Program
+The NOAA Fisheries/Sea Grant fellowship program focuses on two specialized areas: population dynamics and marine resource economics. Ph.D. candidates interested in the population dynamics of living marine resources and the development and implementation of quantitative methods for assessing their status can receive up to three years of funding. Ph.D. students in marine resource economics, concentrating on the conservation and management of living marine resources, can receive two years of funding.
+https://caseagrant.ucsd.edu/students/fellowships
+
+NOAA National Sea Grant Knauss Marine Policy Fellowship
+This program provides an opportunity for graduate students to work with hosts in the legislative branch, executive branch, or appropriate associations/institutions located in the Washington, D.C. area. Established in 1979, the fellowship provides a unique educational experience to students who have an interest in ocean, coastal and Great Lakes resources and in the national policy decisions affecting those resources.
+https://seagrant.noaa.gov/Knauss
+
+North Pacific Research Board (NPRB) Graduate Student Research Awards
+NPRB awards are given to encourage students to pursue scientific and scholarly research that addresses management issues in northern seas.
+https://nprb.org/graduate-research-awards/
+
+Paul & Daisy Soros Fellowships for New Americans
+The Paul and Daisy Soros Fellowships for New Americans provide opportunities for continuing generations of able and accomplished New Americans to achieve leadership in their chosen fields. A New American is an individual who (1) is a resident alien; i.e., holds a Green Card, or, (2) has been naturalized as a U.S. citizen, or (3) is the child of two parents who are both naturalized citizens. Must be younger than 31 years old.
+http://www.pdsoros.org/
+
+Schlanger Ocean Drilling Fellowship
+The Schlanger Ocean Drilling Fellowship offers merit-based awards for outstanding graduate students to conduct research related to the Integrated Ocean Drilling Program. The award is to be used for stipend, tuition, benefits,research costs, and travel. Research may be directed toward the objectives of specific expeditions or may address broader themes.
+https://usoceandiscovery.org/fellowships/
+
+Smithsonian Tropical Research Institute (STRI)
+STRI offers short term (10 week) and full year fellowships to support creative young researchers at critical stages of their careers. Modern facilities in tropical mangrove, forest and marine ecosystems and a thriving research community enable scholars to hone good ideas into brilliant questions. STRI fellows conduct their own research in the context of a 100-year relationship between the Smithsonian and Panama that has resulted in more than 10,000 scholarly publications. You’ll benefit from constant exchange that leads to transformational research and seeds new questions about the origins of biodiversity, the implications of environmental change and cultural innovation accompanying shifts in resource use.
+http://www.stri.si.edu/english/education_fellowships/fellowships/index.php
+
+Society of Exploration Geophysicists (SEG) Foundation Scholarships
+SEG Foundation scholarships are intended to encourage the study of the geophysics and related geosciences and to recognize students demonstrating outstanding academic merit. Through the generosity of donors, the SEG Foundation has many different scholarship opportunities.
+https://seg.org/Scholarships
+
+Switzer Environmental Fellowship Program
+The goal of the Switzer Environmental Fellowship Program is to support highly talented graduate students in New England and California whose studies are directed toward improving environmental quality and who demonstrate the potential for leadership in their field. The Foundation broadly defines its interest in the environment and the means by which positive results can be achieved. Awards have been made to students pursuing environmental policy, economics, land and water conservation, public health, journalism, architecture, environmental justice, business and law as well as sciences including biology, chemistry and engineering. 
+http://www.switzernetwork.org/become-fellow
+
+#Internal Fellowships
+
+Competitive Edge
+Competitive Edge is a summer bridge interdisciplinary program for incoming Ph.D. and MFA students. The main objectives of this program are to ease students’ acclimation and transition into campus. Participants are required to attend workshops to acclimate them to the campus environment. Workshop facilitators are members of the UC San Diego community and serve as faculty, staff or continuing graduate students in various academic fields.
+https://grad.ucsd.edu/diversity/oar2/programs/graduate-students/competitive-edge/index.html
+
+Tribal Membership Initiative
+The Tribal Membership Initiative aims to increase diversity by providing fellowships to incoming graduate students of Native American, Alaska Native, and Native Hawaiian ancestry.
+https://grad.ucsd.edu/diversity/programs-resources/diversity-resources/tribal-membership.html
